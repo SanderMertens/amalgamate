@@ -1,0 +1,9 @@
+{
+    "id": "amalgamate",
+    "type": "application",
+    "value": {
+        "author": "Sander Mertens",
+        "description": "Simple amalgamation tool for bake projects",
+        "use": ["bake.util"]
+    }
+}
